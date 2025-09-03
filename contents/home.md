@@ -11,4 +11,4 @@
 • GPA: 3.82/4
 
 #### Research Interests  
-LLM
+LLM，Computer Network
