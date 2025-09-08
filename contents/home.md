@@ -12,3 +12,9 @@
 
 #### Research Interests  
 LLM，Computer Network
+
+[dblp](https://dblp.org/pid/163/7975.html)
+
+[openreview](https://openreview.net/profile?id=%7EXuyang_Wei1)
+
+[uestc 保研数据](https://uestc.fuck.sylu.net/)
