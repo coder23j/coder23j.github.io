@@ -1,9 +1,8 @@
 [![weixuyang](https://img.shields.io/badge/coder23j-github-blue?logo=github)](https://github.com/coder23j)
 
-我目前是电子科技大学软件工程学院的一名本科生。
+我目前是电子科技大学软件工程学院的一名准研究生。
 
 #### Email  
-<code>2022090915016@std.uestc.edu.cn</code>  
 <code>7yun1uxdjj@gmail.com</code>
 
 #### Education  
@@ -11,7 +10,7 @@
 • GPA: 3.82/4
 
 #### Research Interests  
-LLM，Computer Network
+LLM，Agent
 
 [dblp](https://dblp.org/pid/163/7975.html)
 
